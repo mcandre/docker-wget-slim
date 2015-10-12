@@ -50,8 +50,7 @@ $ sudo yum install docker-io
 ## non-Linux
 
 * [VirtualBox](https://www.virtualbox.org/)
-* [Vagrant](https://www.vagrantup.com/)
-* [boot2docker](http://boot2docker.io/)
+* [Docker Toolbox](https://www.docker.com/toolbox)
 
 ### Mac OS X
 
@@ -60,8 +59,7 @@ $ sudo yum install docker-io
 * [brew-cask](http://caskroom.io/)
 
 ```
-$ brew cask install virtualbox vagrant
-$ brew install boot2docker
+$ brew cask install dockertoolbox
 ```
 
 ### Windows
@@ -69,5 +67,7 @@ $ brew install boot2docker
 * [Chocolatey](https://chocolatey.org/)
 
 ```
-> chocolatey install docker make
+> chocolatey install virtualbox make
 ```
+
+* [DockerToolbox-1.8.2c.exe](https://github.com/docker/toolbox/releases/download/v1.8.2c/DockerToolbox-1.8.2c.exe)
