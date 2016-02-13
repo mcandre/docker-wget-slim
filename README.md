@@ -34,6 +34,7 @@ docker run --rm -v $(pwd)/mirrors:/mnt mcandre/docker-wget-slim -P /mnt -mpNHk -
 ## Optional
 
 * [make](http://www.gnu.org/software/make/)
+* [Node.js](https://nodejs.org/en/) (for dockerlint)
 
 ## Debian/Ubuntu
 
